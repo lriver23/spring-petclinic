@@ -46,4 +46,4 @@ change has been fixed.
 - Your GitHub repository with the readme.md file selected showing the build success
 status after the GitHub workflow has recovered.
 
-![Workflow Screen Capture #9](figures/actions-9.png)
+![Workflow Screen Capture #9](figures/actions-10.png)
