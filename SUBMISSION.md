@@ -8,6 +8,7 @@ changed to update the badge.
 - Your GitHub repository with the readme.md file selected showing the build success
 status after you’ve updated the badge markdown.
 
+
 - The section of the POM file showing the coordinates after you’ve commented them
 out.
 
